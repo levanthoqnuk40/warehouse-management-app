@@ -1,0 +1,5 @@
+{
+  "name": "Warehouse Management App",
+  "description": "A modern, responsive web application for managing warehouse inventory. Users can view, add, edit, and delete products, and see a dashboard overview of key inventory metrics.",
+  "requestFramePermissions": []
+}
